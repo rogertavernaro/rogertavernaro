@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rogertavernaro
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science analytical techniques and blockchain
 - 🌱 I’m currently learning Supervised Machine Learning techniques
 - 📫 How to reach me > rogertavernaro@gmail.com
 
